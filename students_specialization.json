@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "student_name": "آمنة عوض أحمد محمد",
+    "university_id": "201822001618",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 2,
+    "student_name": "إيمان جمال الدين ميرغني محمد",
+    "university_id": "201811904643",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 3,
+    "student_name": "دعاء بابكر أحمد سليمان",
+    "university_id": "201821000193",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 4,
+    "student_name": "زكية الجزولي الأمين عبد الله",
+    "university_id": "201811274567",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 5,
+    "student_name": "مآب خلف الله إبراهيم الفكي",
+    "university_id": "201811320307",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 6,
+    "student_name": "الآء حسن أحمد سليمان",
+    "university_id": "201721000145DE7",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 7,
+    "student_name": "إبراهيم محمد إبراهيم أحمد",
+    "university_id": "201811133566",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 8,
+    "student_name": "أحمد محمد الحسن علي محمد الحسن",
+    "university_id": "201811111414",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 9,
+    "student_name": "أحمد نور الهدي الزين الإمام",
+    "university_id": "201821004628",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 10,
+    "student_name": "حذيفة صلاح بشير كمبال",
+    "university_id": "201821020695",
+    "specialization": "COMMUNICATION"
+  },
+  {
+    "id": 11,
+    "student_name": "اسراء محمد حموده احمد",
+    "university_id": "201811154014",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 12,
+    "student_name": "اسلام جعفر محمد عبدالله",
+    "university_id": "201821022188",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 13,
+    "student_name": "اسماء عبدالله جادالله البشير",
+    "university_id": "201811124223",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 14,
+    "student_name": "ثويبه محمد إبراهيم محمود",
+    "university_id": "201811325474",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 15,
+    "student_name": "رزان محمدالهادى يوسف عيسى",
+    "university_id": "201811033693",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 16,
+    "student_name": "سجى الصادق عمر بخيت",
+    "university_id": "201811402711",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 17,
+    "student_name": "شهد انور عبدالرحمن محمد نور",
+    "university_id": "201811248909",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 18,
+    "student_name": "صفاء تاج الدين حسن احمد",
+    "university_id": "201811220420",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 19,
+    "student_name": "ندى حسن موسى النعمان",
+    "university_id": "201821005897",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 20,
+    "student_name": "صفاء اسماعيل احمد صديق",
+    "university_id": "201711095080",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 21,
+    "student_name": "آصف فيصل حسن آدم",
+    "university_id": "201821000524",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 22,
+    "student_name": "إبراهيم أرباب ابراهيم أرباب",
+    "university_id": "201811039149",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 23,
+    "student_name": "النور التوم حسن النور",
+    "university_id": "201811342773",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 24,
+    "student_name": "حامد محمد حامد محمدخير",
+    "university_id": "201811476920",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 25,
+    "student_name": "عبد الماجد محمد عبد الرحيم علي",
+    "university_id": "201811177785",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 26,
+    "student_name": "عبدالرحمن الضي منصور موسي",
+    "university_id": "201811030021",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 27,
+    "student_name": "محمد الحسين محمد محمود",
+    "university_id": "201811457874",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 28,
+    "student_name": "محمد الصادق موسى الرضي",
+    "university_id": "201821003185",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 29,
+    "student_name": "محمد طارق عثمان حسن",
+    "university_id": "201811481409",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 30,
+    "student_name": "محمد عبد الله اسماعيل ادم",
+    "university_id": "201821005316",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 31,
+    "student_name": "مصدق خالد عثمان طه",
+    "university_id": "201821032672",
+    "specialization": "INDUSTRIAL"
+  },
+  {
+    "id": 32,
+    "student_name": "ابوبكر جبريل دفع الله فضل الله",
+    "university_id": "201711346641Z8",
+    "specialization": "INDUSTRIAL"
+  }
+]
